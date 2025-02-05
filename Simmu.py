@@ -138,8 +138,8 @@ logo2 = """
                                                             
                                                    
                          DON'T COPY MY SCRIPT
-                                 SIMAR-HACKER          
-                           MR. SAUL HACKER (SBA)
+                              SIMAR-HACKER          
+                         MR. SAUL HACKER (SBA)
 ╔══──────────────────────────╗─══╗
 ║ OWNER 💓💓💓 SIMAR-HACKER       ║   ║
 ║ GITHUB 💝💝💝 SIMAR (CLONER)    ║   ║
