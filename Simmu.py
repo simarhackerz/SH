@@ -111,11 +111,11 @@ logo1 = """
                                                   
 
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓 SIMAR-HACKER                   ║        ║
-║  GITHUB 💝💝💝 SIMAR (CLONER)                ║        ║
-║ FACEBOOK 💝💝💝 MR. SAUL HACKER        ║        ║
-║  ENJOY 💝💝💝 INDIA CLONEING                  ║        ║
-║   Note 💝💝💝 Use Fastest Speed NeT          ║        ║
+║ OWNER 💓💓💓 SIMAR-HACKER       ║   ║
+║ GITHUB 💝💝💝 SIMAR (CLONER)    ║   ║
+║ FACEBOOK 💝💝💝 MR. SAUL HACKER ║   ║
+║ ENJOY 💝💝💝 INDIA CLONEING     ║   ║
+║ Note 💝💝💝 Use Fastest NeTWk   ║   ║
 ╚══──────────────────────────╝─══╝
 
 """
@@ -141,11 +141,11 @@ logo2 = """
                                  SIMAR-HACKER          
                            MR. SAUL HACKER (SBA)
 ╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓 SIMAR-HACKER                   ║        ║
-║  GITHUB 💝💝💝 SIMAR (CLONER)                ║        ║
-║ FACEBOOK 💝💝💝 MR. SAUL HACKER        ║        ║
-║  ENJOY 💝💝💝 INDIA CLONEING                  ║        ║
-║   Note 💝💝💝 Use Fastest Speed NeT          ║        ║
+║ OWNER 💓💓💓 SIMAR-HACKER       ║   ║
+║ GITHUB 💝💝💝 SIMAR (CLONER)    ║   ║
+║ FACEBOOK 💝💝💝 MR. SAUL HACKER ║   ║
+║ ENJOY 💝💝💝 INDIA CLONEING     ║   ║
+║ Note 💝💝💝 Use Fastest NeTWk   ║   ║
 ╚══──────────────────────────╝─══╝
 """
 print("""
